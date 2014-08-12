@@ -1,0 +1,12 @@
+{
+  "name": "ontology2dot",
+  "version": "0.0.1",
+  "description": "Create a \"dot\" format graph from a YAML ontology file",
+  "main": "index.js",
+  "bin": {"ontology2dot": "bin/to-dot.js"},
+  "author": "Chris Walker <chris@thechriswalker.net>",
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "^3.1.0"
+  }
+}
