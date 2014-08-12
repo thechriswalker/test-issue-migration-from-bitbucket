@@ -1,7 +1,7 @@
 {
   "name": "ontology2dot",
   "version": "0.0.1",
-  "description": "Create a \"dot\" format graph from a YAML ontology file",
+  "description": "Ontology2dot - pretty graphs from ontology yaml",
   "main": "index.js",
   "bin": {"ontology2dot": "bin/to-dot.js"},
   "author": "Chris Walker <chris@thechriswalker.net>",
